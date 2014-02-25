@@ -1,0 +1,26 @@
+doctype html
+html(lang='fr')
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/jquery-ui-1.10.4.custom.css')
+    link(rel='stylesheet', href='/stylesheets/bootstrap.css')
+    //link(rel='stylesheet', href='http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css')
+
+  body(ng-app, ng-init="thing = {name:  'World'}")
+      block header
+            h1 Hello, {{thing.name}}
+      block leftaside
+      block content
+      block more
+      block footer
+
+      script(src='/javascripts/jquery.js')
+      script(src='/javascripts/jquery-ui-1.10.4.custom.js')
+      script(src='/javascripts/bootstrap.js')
+      script(src='/javascripts/angular-1.2.13/angular.js')
+      script(src='/javascripts/angular-1.2.13/angular-resource.js')
+      script(src='/javascripts/MasterPlay.js')
+
+
+

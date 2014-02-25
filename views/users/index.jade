@@ -1,0 +1,31 @@
+extends ../layout
+
+
+block content
+	h1=title
+	p
+		h4 Equipe du jeu d'echec
+
+	table(id="users",class="users", width="930px")
+		thead
+			tr
+				th nom
+				th prenom
+				th pays
+				th region
+				th passion
+			for user in users
+				tr(class="row")
+					td(class="nom")= user.nom
+					td(class="prenom")= user.prenom
+					td(class="pays")= user.pays
+					td(class="region")= user.region
+					td(class="passion")= user.passion
+
+block footer
+	br
+	br
+	a(href="/") Back
+
+
+

@@ -1,0 +1,60 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.row{
+    color: #2b2bEb;
+    height: 10px;
+    line-height: 10px;
+}
+.row > td{
+    margin-right: -20px;
+    padding: 0 10px 0 10px;
+    padding: 10px;
+}
+
+.chessboard{
+    width: 600px;
+    height: 515px;
+    background: #dddddd;
+    padding-left: 20px;
+    margin-top: -90px;
+}
+
+.changechessboardmargintop{
+    margin-top: 0;
+}
+
+.symbol{
+    width: 70px;
+    height: 60px;
+    background: #333333;
+    color: #fff;
+    border: 1px solid #dddddd;
+    margin: 0;
+    padding: 0;
+    /*
+    padding: 30px;
+    text-align: center;
+    line-height: 30px;*/
+}
+
+.player{
+    margin-bottom: -10px;
+    padding: 0;
+}
+
+div#selectedPlayer{
+    visibility: hidden;
+}
+
+form[name='sign_in'] > input[type='text']{
+    margin-left: 10px;
+
+
+}
