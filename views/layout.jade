@@ -1,5 +1,5 @@
 doctype html
-html(lang='fr')
+html(lang='fr',ng-app='masterplay')
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
@@ -7,9 +7,9 @@ html(lang='fr')
     link(rel='stylesheet', href='/stylesheets/bootstrap.css')
     //link(rel='stylesheet', href='http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css')
 
-  body(ng-app, ng-init="thing = {name:  'World'}")
+  body()
       block header
-            h1 Hello, {{thing.name}}
+            h1 Hello, {{prenom}}
       block leftaside
       block content
       block more
@@ -21,6 +21,9 @@ html(lang='fr')
       script(src='/javascripts/angular-1.2.13/angular.js')
       script(src='/javascripts/angular-1.2.13/angular-resource.js')
       script(src='/javascripts/MasterPlay.js')
+      script(src='/javascripts/masterplay.js.coffee')
+      script(src='/javascripts/masterplayAngular.js.coffee')
+
 
 
 

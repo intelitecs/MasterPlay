@@ -7,11 +7,11 @@ block header
 block content
   h1= title
   //h2 Hello, {{name}}
-  div(ng-controller='HelloCtrl')
+  div(ng-controller='UserController')
      content Say hello to
-        input(type='text', ng-model='thing.name')
+        input(type='text', ng-model='prenom')
         br
-        h2 Hello  {{thing.name}}
+        h2 Hello  {{prenom}}
 
   p Welcome to #{title}
   br

@@ -34,7 +34,7 @@ $(function(){
        $('strong.number').text($(this).text());
        $('div#selectedPlayer').css({'visibility':'visible'});
        $('.chessboard').addClass('changechessboardmargintop');
-	   //console.log($(this).text());
+	   
    });
 
 

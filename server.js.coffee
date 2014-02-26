@@ -1,7 +1,7 @@
 
  express = require('express')
- routes = require('./routes')
- user = require('./routes/user.js.coffee')
+ routes  = require('./routes/index.js.coffee')
+ masterplayAPI = require('./routes/masterplayAPI.js.coffee')
  http = require('http')
  path = require('path')
  supervisor = require('supervisor')
@@ -30,9 +30,9 @@
     application.use(express.errorHandler())
 
  application.get('/', routes.index)
- application.get('/users', user.allUsers)
- application.get('/users/:nom',user.findByByName)
- application.post('/users',user.addUser)
+ application.get('/users', masterplayAPI.allUsers)
+ application.get('/users/:nom',masterplayAPI.findByByName)
+ application.post('/users',masterplayAPI.addUser)
 
  ###
 

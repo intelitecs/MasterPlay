@@ -2,834 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163b36a1-6403-4516-bc77-239271d13bf9" name="Default" comment="first">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/AngularJS-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Cavalier_blanc_transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Fou_blanc_transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/One_Way_Data_Binding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Pion_blanc_transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Reine_blanche_transparente.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Roi_blanc_transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Tour_blanche_transparente.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/Two_Way_Data_Binding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/angular_parts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap-3.1.1-dist.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/catalog_screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-databinding1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-databinding2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-directive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-module-injector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-module-service.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-runtime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-scope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-startup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/concepts-view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/di_sequence_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/dom_scope_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/notes/empty.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/form_data_flow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/hashbang_vs_regular_url.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/helloworld.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/helloworld_2way.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/scenario_runner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/guide/simple_scope_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_00.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_00_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_07_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_08-09_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/tutorial_10-11_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/tutorial/xhr_service_final.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$animate:notcsel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$cacheFactory:iid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:ctreq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:iscp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:multidir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:nodomevents.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:nonassign.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:selmulti.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:tpload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:tplrt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$compile:uterdir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$controller:noscp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$httpBackend:noxhr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:cdep.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:itkn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:modulerr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:nomod.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:pget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$injector:unpr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$interpolate:interr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$interpolate:noconcat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$location:ihshprfx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$location:ipthprfx.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$location:isrcharg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:isecdom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:isecfld.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:isecfn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:isecwindow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:lexerr.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:syntax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$parse:ueoe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$resource:badargs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$resource:badcfg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$resource:badmember.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$resource:badname.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$rootScope:infdig.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$rootScope:inprog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sanitize:badparse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:icontext.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:iequirks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:imatcher.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:insecurl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:itype.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:iwcard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/$sce:unsafe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/AUTO.$injector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/AUTO.$provide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/AUTO.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MasterPlay.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Node_js_Dependencies_for_MasterPlay.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-animate.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/angular-bootstrap-prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/angular-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-cookies.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-cookies.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-loader.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-loader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_af-na.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_af-za.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_am-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-001.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-ae.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-bh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-dz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-eg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-iq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-jo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-kw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-ly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-om.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-qa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-sd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-sy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-tn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar-ye.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_bg-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_bn-bd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_bn-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ca-ad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ca-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_cs-cz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_da-dk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-ch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-li.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de-lu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_el-cy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_el-gr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-as.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-bb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-bm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-bw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-bz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-dsrt-us.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-dsrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-fm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-gy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-hk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-iso.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-jm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-mh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-mp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-mt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-mu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-na.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-nz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-pk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-pr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-pw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-sg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-tc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-tt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-um.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-us.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-vg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-za.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en-zw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-419.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-cl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-co.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-cr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-do.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-gq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-gt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-hn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-mx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ni.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-pa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-pe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-pr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-py.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-us.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-uy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es-ve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_et-ee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_eu-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fa-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fa-ir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fi-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fil-ph.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-be.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-bf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-bi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-bj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-bl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-cd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-cf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-cg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ci.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-cm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-dj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-gf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-gn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-gp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-gq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-lu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-mc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-mf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-mg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-mq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-ne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-re.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr-yt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gl-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gsw-ch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gsw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gu-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_he-il.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hi-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hr-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hu-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_id-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_is-is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_it-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_it-sm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_iw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ja-jp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_kn-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_kn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ko-kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ln-cd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ln.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_lt-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_lv-lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ml-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_mr-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ms-my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_mt-mt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_mt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_nl-cw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_nl-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_nl-sx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_or-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_or.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_pl-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_pt-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ro-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ru-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sk-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sl-si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sq-al.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sr-cyrl-rs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sr-latn-rs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sv-se.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sw-tz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_sw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ta-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_te-in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_te.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_th-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_tl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_tr-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_uk-ua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ur-pk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_ur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_vi-vn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zh-hans-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zh-hk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zu-za.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/i18n/angular-locale_zu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-mocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-sanitize.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-scenario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-touch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-touch.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular-touch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.IModule.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.bind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.copy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.equals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.extend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.forEach.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.fromJson.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.identity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.injector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isArray.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isDate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isDefined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isElement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isFunction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isNumber.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isObject.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isString.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.isUndefined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.lowercase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.mock.TzDate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.mock.dump.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.mock.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.mock.inject.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.mock.module.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.module.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.noop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.toJson.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.uppercase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/angular.version.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/img/angularjs-for-header-only.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/css/animations.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/animations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/appcache-offline.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/appcache.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/chat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/compiler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/concepts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/misc/contribute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/controller.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/databinding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.e2e-testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.$location.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.creating_services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.injecting_controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/dev_guide.services.injecting_controllers.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/dev_guide.services.injecting_controllers.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.managing_dependencies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.testing_services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.services.understanding_services.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.templates.css-styling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/dev_guide.unit-testing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/di.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/directive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/directive.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/directive.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/css/doc_widgets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/docs-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/docs-scenario.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/docs-scenario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/css/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/js/docs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/misc/downloading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/errors.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/expression.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/expression.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/guide/expression.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/misc/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/font-awesome/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/google-code-prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/i18n.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/ie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index-debug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index-jq-debug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index-jq-nocache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index-jq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index-nocache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/chat/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/introduction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/jqLite:nosel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/jqLite:offargs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/jqLite:onargs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/jquery-ui-1.10.4.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-ui-1.10.4.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/layout.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/lunr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/lunr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/components/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/migration.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/module.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$anchorScroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$animate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$animateProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$cacheFactory.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$compile.directive.Attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$compile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$compile.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$compile.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$compileProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$controller.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$controllerProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$document.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$exceptionHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$filterProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$http.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$http.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$http.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$httpBackend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$interpolate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$interpolateProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$interpolateProvider.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$interpolateProvider.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$interval.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$locale.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$location.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$locationProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$logProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$parse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$parseProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$q.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$rootElement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$rootScope.Scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$rootScope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$rootScopeProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$sce.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$sce.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$sce.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$sceDelegate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$sceDelegateProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$sceProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$templateCache.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$timeout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.$window.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$window.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.$window.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:form.FormController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:form.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:form.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.checkbox.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.checkbox.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.email.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.email.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.email.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.number.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.number.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.number.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.radio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.radio.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.radio.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.text.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.text.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.text.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:input.url.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.url.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:input.url.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngApp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngBind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBind.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBind.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngBindHtml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBindHtml.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBindHtml.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngBindTemplate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBindTemplate.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngBindTemplate.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngBlur.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngChange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngChange.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngChange.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngChecked.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngChecked.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngChecked.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngClass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClass.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClass.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngClassEven.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClassEven.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClassEven.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngClassOdd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClassOdd.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClassOdd.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngClick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClick.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngClick.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngCloak.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngCloak.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngCloak.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngController.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngController.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngCopy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngCsp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngCut.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngDblclick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngDisabled.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngDisabled.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngDisabled.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngFocus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngForm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngHide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngHide.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngHide.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngHref.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngHref.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngHref.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngIf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngInclude.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngInclude.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngInclude.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngInit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngInit.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngInit.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngKeydown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngKeypress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngKeyup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngList.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngList.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngList.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngModel.NgModelController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngModel.NgModelController.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngModel.NgModelController.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMousedown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMouseenter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMouseleave.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMousemove.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMouseover.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngMouseup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngNonBindable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngNonBindable.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngNonBindable.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngOpen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngOpen.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngOpen.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngPaste.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngPluralize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngPluralize.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngPluralize.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngReadonly.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngReadonly.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngReadonly.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngRepeat.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngRepeat.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngRepeat.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngSelected.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSelected.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSelected.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngShow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngShow.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngShow.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngSrc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngSrcset.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngStyle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngStyle.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngStyle.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngSubmit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSubmit.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSubmit.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngSwitch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSwitch.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngSwitch.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngTransclude.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngTransclude.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngTransclude.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:ngValue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngValue.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:ngValue.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:script.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:script.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:script.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:select.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.directive:select.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.directive:textarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:currency.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:currency.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:currency.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:date.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:date.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:date.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:filter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:filter.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:filter.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:json.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:json.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:limitTo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:limitTo.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:limitTo.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:lowercase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:number.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:number.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ng.filter:number.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:orderBy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.filter:uppercase.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ng.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ng:areq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ng:badname.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ng:btstrpd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ng:cpi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ng:cpws.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngAnimate.$animate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngAnimate.$animateProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngAnimate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngCookies.$cookieStore.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngCookies.$cookies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngCookies.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$exceptionHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$exceptionHandlerProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$httpBackend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$interval.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.$timeout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMock.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMockE2E.$httpBackend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngMockE2E.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngModel:nonassign.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngOptions:iexp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngPattern:noregexp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngRepeat:dupes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngRepeat:iexp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngRepeat:iidexp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngResource.$resource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngResource.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngRoute.$route.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngRoute.$route.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngRoute.$route.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngRoute.$routeParams.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngRoute.$routeProvider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngRoute.directive:ngView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngRoute.directive:ngView.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngRoute.directive:ngView.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngRoute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngSanitize.$sanitize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngSanitize.$sanitize.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngSanitize.$sanitize.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngSanitize.filter:linky.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngSanitize.filter:linky.jqlite_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/ptore2e/api/ngSanitize.filter:linky.jquery_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngSanitize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngTouch.$swipe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngTouch.directive:ngClick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngTouch.directive:ngSwipeLeft.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngTouch.directive:ngSwipeRight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/api/ngTouch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/error/ngTransclude:orphan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/offline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/css/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/providers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/scope.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/users/show.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/misc/started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_00.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_08.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/step_12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/guide/templates.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/docs/partials/tutorial/the_end.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/version.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/angular-1.2.13/version.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/index.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/masterplay.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/masterplayAngular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js.coffee" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/chat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/user.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/MasterPlay.js" afterPath="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MasterPlay.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -852,19 +41,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <file leaf-file-name="server.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="40" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+            <state line="2" column="44" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -873,25 +53,7 @@
       <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/users/index.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="12" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="555">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="36" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="1395">
+            <state line="13" column="26" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="4200">
               <folding />
             </state>
           </provider>
@@ -900,16 +62,43 @@
       <file leaf-file-name="MasterPlay.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="89" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="547" max-vertical-offset="915">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <file leaf-file-name="masterplay.js.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/masterplay.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="18" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="975">
+            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="masterplayAngular.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/masterplayAngular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="51" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -940,21 +129,30 @@
         <option value="$PROJECT_DIR$/views/users/index.jade" />
         <option value="$PROJECT_DIR$/public/javascripts/application.js" />
         <option value="$PROJECT_DIR$/views/users/show.jade" />
-        <option value="$PROJECT_DIR$/routes/user.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
-        <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/server.coffee" />
+        <option value="$PROJECT_DIR$/routes/user.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/routes/user.js.coffee" />
+        <option value="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" />
+        <option value="$PROJECT_DIR$/routes/index.js.coffee" />
+        <option value="$PROJECT_DIR$/server.js.coffee" />
+        <option value="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/angular_controllers/userController.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/angular_controllers/userController.js.coffee" />
+        <option value="$PROJECT_DIR$/public/javascripts/masterplayAngular.js" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/masterplay.js.coffee" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="247" />
-    <option name="y" value="22" />
+    <option name="x" value="243" />
+    <option name="y" value="35" />
     <option name="width" value="1280" />
-    <option name="height" value="718" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -982,6 +180,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1014,9 +213,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MasterPlay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MasterPlay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MasterPlay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MasterPlay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1032,7 +262,8 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="LayoutCode.rearrangeEntriesJade" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js.coffee" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1042,15 +273,7 @@
       <recent name="$PROJECT_DIR$/public/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.masterplay">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -1061,15 +284,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -1080,7 +311,7 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.masterplay" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -1110,28 +341,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="247" y="22" width="1280" height="718" extended-state="0" />
+    <frame x="243" y="35" width="1280" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1731533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17235902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18012924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833335" sideWeight="0.8537964" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26842105" sideWeight="0.19789983" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276316" sideWeight="0.8537964" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26842105" sideWeight="0.8021002" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1150,9 +381,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34036145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25753012" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1186,37 +417,37 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/users/index.jade">
+    <entry file="file://$PROJECT_DIR$/server.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="375">
+        <state line="2" column="44" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="129" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
+        <state line="15" column="23" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="4200">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/masterplayAngular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="2" selection-start="1475" selection-end="1475" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1470">
+        <state line="1" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="29" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="585">
+        <state line="1" column="33" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
+    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="86" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="270">
+        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
@@ -1224,11 +455,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="1" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
@@ -1247,9 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
@@ -1259,35 +483,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="62" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="1335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="29" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="86" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="1" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
@@ -1311,33 +509,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="26" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="210">
-          <folding />
-        </state>
+        <state line="4" column="23" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="1" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
@@ -1361,32 +538,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
-          <folding />
-        </state>
+        <state line="4" column="23" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -1409,81 +563,29 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17760" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="350" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="19" selection-start="266" selection-end="266" vertical-scroll-proportion="0.48424068" vertical-offset="26" max-vertical-offset="375" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/users/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="12" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/users/show.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="25" selection-start="1993" selection-end="1993" vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2715">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/chat/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.24456522" vertical-offset="0" max-vertical-offset="368">
-          <folding>
-            <marker date="1393148115000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393148115000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393148115000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/chat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="271">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="36" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0" vertical-offset="847" max-vertical-offset="1395">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.24456522" vertical-offset="0" max-vertical-offset="368" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04225352" vertical-offset="15" max-vertical-offset="29295">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.04225352" vertical-offset="15" max-vertical-offset="29295" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/bootstrap-theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="523" selection-end="523" vertical-scroll-proportion="0.6929348" vertical-offset="0" max-vertical-offset="5295">
-          <folding />
-        </state>
+        <state line="17" column="20" selection-start="523" selection-end="523" vertical-scroll-proportion="0.6929348" vertical-offset="0" max-vertical-offset="5295" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/underscore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-53.904892" vertical-offset="19837" max-vertical-offset="20205">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-53.904892" vertical-offset="19837" max-vertical-offset="20205" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
@@ -1493,30 +595,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="18" selection-end="18" vertical-scroll-proportion="0.028409092" vertical-offset="0" max-vertical-offset="528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/show.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="22" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/masterplayAPI.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="680" selection-end="680" vertical-scroll-proportion="0.12475248" vertical-offset="312" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="12" selection-start="434" selection-end="434" vertical-scroll-proportion="0.6306818" vertical-offset="27" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="44" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4200">
+        <state line="13" column="26" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4200">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="89" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="547" max-vertical-offset="915">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/masterplayAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="40" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+        <state line="23" column="51" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/masterplay.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="528">
           <folding />
         </state>
       </provider>
