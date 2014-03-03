@@ -1,5 +1,6 @@
 mongoose  = require('mongoose')
 mongo     = require('mongodb')
+BSON     = require('bson')
 
 mongoose.connect("mongodb://localhost:27017/masterplay")
 db = mongoose.connection;
@@ -30,16 +31,29 @@ User = mongoose.model('User',userSchema);
 exports.allUsers = (request, response) ->
   User.find(null, (error, users) ->
     if(error)
-      console.error(error)
+      response.json({error: true})
     else
-      response.render('users/index',{title: 'Liste des utilisateurs', users: users})
+      #response.render('users/index',{title: 'Liste des utilisateurs', users: users})
+
+      response.json(users)
   )
 
+#GET: /users/:id
+exports.userByIdInArray = (request,response) ->
+  User.find(null, (error,users) ->
+    if(error)
+      response.json({erro: true})
+    else
+      response.json(users[request.params.id])
+
+
+  )
 
 # POST: /users
 exports.addUser = (request, response) ->
   response.header("Access-Control-Allow-Origin","*")
   response.header("Access-Control-Allow-Headers","X-Requested-With")
+
   user = new User({
     nom     :  request.body.nom,
     prenom  :  request.body.prenom,
@@ -53,20 +67,60 @@ exports.addUser = (request, response) ->
     else
       console.log(result[0])
       response.render('users/index', {title: "User saved successfully", user: result[0]})
+    ##mongoose.connection.close()
 
 
-# GET : /users/:nom
-exports.findByByName = (request, response) ->
-  User.find({nom: request.params.nom}, (error, users) ->
+
+#GET  /users/:id
+exports.user = (request, response) ->
+  User.findById(request.params.id,(error,user) ->
+    if error
+      console.error(error)
+    else
+      response.json(user)
+
+  )
+
+
+# PUT : /users/:id
+exports.updateUser = (request, response) ->
+  User.find(null, (error, users) ->
     if error
       console.error(error.message);
     else
-      response.send({title: "User found successfully", user: users[0]})
+      userToUpdate = users[request.params.id]
+      userToUpdate.nom     = request.body.nom
+      userToUpdate.prenom  = request.body.prenom
+      userToUpdate.pays    = request.body.pays
+      userToUpdate.region  = request.body.region
+      userToUpdate.passion = request.body.passion
+
+      User.update(userToUpdate,(error,user) ->
+        if error
+          console.error(error)
+        else
+          response.json(user);
+      )
+      #response.send({title: "User found successfully", user: users[0]})
+  )
+
+
+#Delete : /users/:1
+exports.removeUser = (request, response) ->
+  User.find(null, (error, users) ->
+    if(error)
+      console.error(error)
+    else
+      User.remove(users[request.params.id], (error, result) ->
+        if error
+          console.error(error)
+        else
+          response.json({success: true})
+      )
+
   )
 
 
 
 
-# and finally close the connection
-mongoose.connection.close();
 

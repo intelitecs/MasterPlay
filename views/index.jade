@@ -1,21 +1,17 @@
 extends layout
 
 block header
-    p simple button in the header
 
 
-block content
+block main_content
   h1= title
-  //h2 Hello, {{name}}
-  div(ng-controller='UserController')
-     content Say hello to
-        input(type='text', ng-model='prenom')
-        br
-        h2 Hello  {{prenom}}
 
   p Welcome to #{title}
   br
-  button(class='btn-large btn-info') Register
+  //button(class='btn-large btn-info', ng-controller='UserController', ng-click='showUsers($index)' ) Register
+
+  div(class='hero-unit', ng-controller='UserController')
+     h2 {{name}}
 
   br
   a(href="/users/",id="lien") visit the users page
@@ -259,16 +255,4 @@ block more
 
 
 
-
-
-
-
-
-
-
-
-
-
-block footer
-  h3 here is our footer
 

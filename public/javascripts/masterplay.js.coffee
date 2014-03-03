@@ -1,2 +1,0 @@
-#$ ->
-  alert("Good morning")

@@ -40,17 +40,3 @@ $(function(){
 
 });
 
-var HelloCtrl = function($scope){
-    "use strict";
-    //$scope.name = 'World';
-    $scope.population = 7000;
-    $scope.countries = [
-        {name: "Côte d'ivoire", population: 25.5},
-        {name: "Ghana", population: 20.2},
-        {name: "Nigeria", population: 200.5}
-    ];
-
-    $scope.worldsPercentage = function(countryPopulation){
-        return (countryPopulation / $scope.population) * 100;
-    };
-};

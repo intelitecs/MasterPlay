@@ -13,8 +13,6 @@
     "underscore":"*",
     "mongoose":"*",
     "mongodb":"*",
-    "restify":"*",
-    "socket.io":"*"
-
+    "bson":"*"
   }
 }

@@ -1,5 +1,5 @@
 doctype html
-html(lang='fr',ng-app='masterplay')
+html(lang='fr', ng-app='Masterplay')
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
@@ -9,20 +9,35 @@ html(lang='fr',ng-app='masterplay')
 
   body()
       block header
-            h1 Hello, {{prenom}}
-      block leftaside
+      h1 Good Morning everyone
+      div(class='navbar navbar-inverse')
+          div(class='navbar-inner navbar-collapse', style='height: auto;')
+              ul(class='nav')
+                 li(class='active')
+                     a(href='#') Home
+                 li
+                     a(href='#') Master
+                 li
+                     a(href='#') Play
+
       block content
-      block more
-      block footer
+      div(id='content',class='row-fluid')
+        div(class='span9 main')
+            block main_content
+        div(class='span3 sidebar')
+            block main_sidebar
 
       script(src='/javascripts/jquery.js')
       script(src='/javascripts/jquery-ui-1.10.4.custom.js')
       script(src='/javascripts/bootstrap.js')
       script(src='/javascripts/angular-1.2.13/angular.js')
       script(src='/javascripts/angular-1.2.13/angular-resource.js')
+      script(src='/javascripts/angular-1.2.13/angular-route.js')
       script(src='/javascripts/MasterPlay.js')
-      script(src='/javascripts/masterplay.js.coffee')
-      script(src='/javascripts/masterplayAngular.js.coffee')
+      script(src='/javascripts/masterplayAngular.js')
+      script(src='/javascripts/configAngular/controllers.js')
+      script(src='/javascripts/configAngular/services.js')
+
 
 
 

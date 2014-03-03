@@ -1,10 +1,12 @@
 
- express = require('express')
- routes  = require('./routes/index.js.coffee')
+ express       = require('express')
+ routes        = require('./routes/index.js.coffee')
  masterplayAPI = require('./routes/masterplayAPI.js.coffee')
- http = require('http')
- path = require('path')
- supervisor = require('supervisor')
+ http          = require('http')
+ path          = require('path')
+ supervisor    = require('supervisor')
+ events        = require('events')
+ eventsEmitter = new events.EventEmitter();
 
  application = express();
 
@@ -31,24 +33,39 @@
 
  application.get('/', routes.index)
  application.get('/users', masterplayAPI.allUsers)
- application.get('/users/:nom',masterplayAPI.findByByName)
+ application.get('/users/:id', masterplayAPI.user)
  application.post('/users',masterplayAPI.addUser)
+ application.patch('/users/:id',masterplayAPI.updateUser)
+ application.delete('/users/:id',masterplayAPI.removeUser)
 
- ###
+ mainLoop = ->
+    console.log("Starting application")
+    eventsEmitter.emit('ApplicationStart')
+    console.log "Running application"
+    eventsEmitter.emit('ApplicationRun')
+    console.log "Stoping application"
+    eventsEmitter.emit('ApplicationStop')
 
- application.get('/users/:id([0-9a-f]{24})',user.findUserById);
- application.patch('/users/:id([0-9a-f]{24})',user.updateUser);
- application.delete('/users/:id([0-9a-f]{24})',user.deleteUser);
+ onApplicationStart = ->
+   console.log "Handling application start events"
 
- application.get '/chat',  (request, response, next) ->
-   response.render 'chat/index'
-###
+ onApplicationRun = ->
+   console.log "Handling application running events"
+
+ onApplicationStop = ->
+   console.log "Handling application stop events"
+
+ eventsEmitter.on "ApplicationStart", onApplicationStart
+ eventsEmitter.on "ApplicationRun",   onApplicationRun
+ eventsEmitter.on "ApplicationStop",  onApplicationStop
+
 
  server = http.createServer(application).listen(application.get('port'), (error) ->
       if error
         throw error
       else
         console.log "Express server listening on port #{application.get('port')}"
+        mainLoop()
 
  )
 

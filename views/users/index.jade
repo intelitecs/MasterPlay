@@ -2,9 +2,6 @@ extends ../layout
 
 
 block content
-	h1=title
-	p
-		h4 Equipe du jeu d'echec
 
 	table(id="users",class="users", width="930px")
 		thead
@@ -14,13 +11,15 @@ block content
 				th pays
 				th region
 				th passion
-			for user in users
-				tr(class="row")
-					td(class="nom")= user.nom
-					td(class="prenom")= user.prenom
-					td(class="pays")= user.pays
-					td(class="region")= user.region
-					td(class="passion")= user.passion
+			//for user in users
+			tr(class="row", ng-controller='UserController', ng-repeat="user in users")
+				td(class="nom")= user.nom
+				td(class="prenom")= user.prenom
+				td(class="pays")= user.pays
+				td(class="region")= user.region
+				td(class="passion")= user.passion
+
+
 
 block footer
 	br
