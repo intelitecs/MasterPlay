@@ -1,6 +1,6 @@
 mongoose  = require('mongoose')
 mongo     = require('mongodb')
-BSON     = require('bson')
+fs     = require('fs')
 
 mongoose.connect("mongodb://localhost:27017/masterplay")
 db = mongoose.connection;
@@ -33,8 +33,13 @@ exports.allUsers = (request, response) ->
     if(error)
       response.json({error: true})
     else
-      #response.render('users/index',{title: 'Liste des utilisateurs', users: users})
-
+      fs.writeFile('users.txt',users,(error) ->
+          if error
+            console.error(error)
+            console.log(error.message)
+          else
+            console.log("file created success fully")
+      )
       response.json(users)
   )
 

@@ -206,6 +206,13 @@ block main_content
   br
   br
 
+  div(ng-controller='ChessController', class='container')
+    div
+        h2 Welcome to our chess application
+        span Turn for player:
+            strong {{currentColor}}
+
+
 block leftaside
     h4 two paragraphs in the left aside content
     p.

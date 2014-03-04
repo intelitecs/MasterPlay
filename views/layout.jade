@@ -5,20 +5,21 @@ html(lang='fr', ng-app='Masterplay')
     link(rel='stylesheet', href='/stylesheets/style.css')
     link(rel='stylesheet', href='/stylesheets/jquery-ui-1.10.4.custom.css')
     link(rel='stylesheet', href='/stylesheets/bootstrap.css')
+    link(rel='stylesheet', href='/stylesheets/bootstrap-theme.css')
     //link(rel='stylesheet', href='http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css')
 
   body()
       block header
-      h1 Good Morning everyone
-      div(class='navbar navbar-inverse')
-          div(class='navbar-inner navbar-collapse', style='height: auto;')
-              ul(class='nav')
-                 li(class='active')
-                     a(href='#') Home
-                 li
-                     a(href='#') Master
-                 li
-                     a(href='#') Play
+      nav(class='navbar navbar-inverse', role='navigation')
+          div(class='container-fluid')
+              div(class='navbar-inner navbar-collapse', style='height: auto;')
+                  ul(class='nav')
+                     li(class='active')
+                         a(href='#') Home
+                     li
+                         a(href='#') Master
+                     li
+                         a(href='#') Play
 
       block content
       div(id='content',class='row-fluid')
@@ -36,6 +37,8 @@ html(lang='fr', ng-app='Masterplay')
       script(src='/javascripts/MasterPlay.js')
       script(src='/javascripts/masterplayAngular.js')
       script(src='/javascripts/configAngular/controllers.js')
+      script(src='/javascripts/configAngular/chessengine.js.coffee')
+      script(src='/javascripts/chessModel.js.coffee')
       script(src='/javascripts/configAngular/services.js')
 
 

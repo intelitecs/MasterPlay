@@ -6,6 +6,7 @@
  path          = require('path')
  supervisor    = require('supervisor')
  events        = require('events')
+ fs            = require('fs')
  eventsEmitter = new events.EventEmitter();
 
  application = express();
@@ -46,8 +47,24 @@
     console.log "Stoping application"
     eventsEmitter.emit('ApplicationStop')
 
+
+ createDatabaseDirCallback = (exception) ->
+   if exception
+     console.error(exception)
+     console.log(exception.message)
+   else
+     console.log('Directory created')
+
  onApplicationStart = ->
    console.log "Handling application start events"
+   fs.exists('databases.conf',(value) ->
+     if value is true
+       console.log("File database.conf already exists")
+     else
+       fs.mkdir('databases.conf',createDatabaseDirCallback)
+   )
+
+
 
  onApplicationRun = ->
    console.log "Handling application running events"
@@ -59,6 +76,8 @@
  eventsEmitter.on "ApplicationRun",   onApplicationRun
  eventsEmitter.on "ApplicationStop",  onApplicationStop
 
+ workingapp = ->
+   console.log("This application is working perfectly")
 
  server = http.createServer(application).listen(application.get('port'), (error) ->
       if error
@@ -66,6 +85,7 @@
       else
         console.log "Express server listening on port #{application.get('port')}"
         mainLoop()
+        setInterval(workingapp,30000)
 
  )
 
