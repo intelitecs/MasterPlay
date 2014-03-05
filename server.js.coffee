@@ -7,11 +7,14 @@
  supervisor    = require('supervisor')
  events        = require('events')
  fs            = require('fs')
+ dns           = require('dns')
+ cluster       = require('cluster')
+
  eventsEmitter = new events.EventEmitter();
 
  application = express();
 
- # all environments
+ #all environments
  application.set('port', process.env.PORT || 3000);
  application.set('views', path.join(__dirname, 'views'));
  application.set('view engine', 'jade');
@@ -79,14 +82,48 @@
  workingapp = ->
    console.log("This application is working perfectly")
 
+ domainCallback = (error, address, family) ->
+   if error
+     console.error error
+     console.log error.message
+   else
+     console.log "address: #{address} ; family: #{family}"
+
+ reverseCallback = (error, domains) ->
+   if error
+     console.error error
+     console.log error.message
+   else
+     console.log(domain if domain) for domain in domains
+
+
+ bricolonsIP = '217.70.184.38'
+
+
  server = http.createServer(application).listen(application.get('port'), (error) ->
-      if error
-        throw error
-      else
-        console.log "Express server listening on port #{application.get('port')}"
-        mainLoop()
-        setInterval(workingapp,30000)
+    if error
+      throw error
+    else
+      console.log "Express server listening on port #{application.get('port')}"
+
+
+
+
+
 
  )
 
+
+
+# net = require('net')
+# server = net.createServer( (connection) ->
+#  console.log('server connected')
+#  connection.on 'end', ->
+#    console.log('server disconnected')
+#  connection.write "Bonjour de la part de Jarode"
+#  connection.pipe(connection)
+# )
+# server.listen 8124, ->
+#   console.log "server bound"
+#
 

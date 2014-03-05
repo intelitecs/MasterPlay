@@ -1,45 +1,38 @@
 doctype html
 html(lang='fr', ng-app='Masterplay')
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-    link(rel='stylesheet', href='/stylesheets/jquery-ui-1.10.4.custom.css')
-    link(rel='stylesheet', href='/stylesheets/bootstrap.css')
-    link(rel='stylesheet', href='/stylesheets/bootstrap-theme.css')
-    //link(rel='stylesheet', href='http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css')
+  include inc/header
 
-  body()
-      block header
-      nav(class='navbar navbar-inverse', role='navigation')
-          div(class='container-fluid')
-              div(class='navbar-inner navbar-collapse', style='height: auto;')
-                  ul(class='nav')
-                     li(class='active')
-                         a(href='#') Home
-                     li
-                         a(href='#') Master
-                     li
-                         a(href='#') Play
 
-      block content
-      div(id='content',class='row-fluid')
-        div(class='span9 main')
-            block main_content
-        div(class='span3 sidebar')
-            block main_sidebar
 
-      script(src='/javascripts/jquery.js')
-      script(src='/javascripts/jquery-ui-1.10.4.custom.js')
-      script(src='/javascripts/bootstrap.js')
-      script(src='/javascripts/angular-1.2.13/angular.js')
-      script(src='/javascripts/angular-1.2.13/angular-resource.js')
-      script(src='/javascripts/angular-1.2.13/angular-route.js')
-      script(src='/javascripts/MasterPlay.js')
-      script(src='/javascripts/masterplayAngular.js')
-      script(src='/javascripts/configAngular/controllers.js')
-      script(src='/javascripts/configAngular/chessengine.js.coffee')
-      script(src='/javascripts/chessModel.js.coffee')
-      script(src='/javascripts/configAngular/services.js')
+  body
+  .navbar.navbar-inverse.navbar-static-top(role='navigation')
+      .container
+        .navbar-header
+            button.navbar-toggle(type='button',data-toggle='collapse',data-target='.navbar-collapse')
+                span.sr-only Toggle navigation
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+            a.navbar-brand(href='#') #{brand}
+        .navbar-collapse.collapse
+            ul.nav.navbar-nav
+                -var obj = {'home':'Home','about':'About'}
+                    -each val, key in obj
+                        - if (id == key)
+                          li.active
+                            a(href='#{key}') #{val}
+                        - else
+                           li
+                             a(href='#{key}') #{val}
+
+
+  block content
+
+include inc/footer
+
+
+
+
 
 
 

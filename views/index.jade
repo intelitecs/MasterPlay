@@ -1,9 +1,9 @@
 extends layout
 
-block header
 
 
-block main_content
+
+block content
   h1= title
 
   p Welcome to #{title}
@@ -18,6 +18,10 @@ block main_content
   br
   br
   h1 Master play chessBoard
+
+  div#selectedPlayer
+    img(class='currentImage',src='images/Pion_blanc_transparent.png',alt='current image', width='60px',height='80px')
+    strong.number
 
   mixin list
       div(id='chessboard', class='chessboard')
@@ -206,60 +210,10 @@ block main_content
   br
   br
 
-  div(ng-controller='ChessController', class='container')
+  div(ng-controller='UserController', class='container')
     div
         h2 Welcome to our chess application
         span Turn for player:
-            strong {{currentColor}}
-
-
-block leftaside
-    h4 two paragraphs in the left aside content
-    p.
-        here we can define our own content.
-        to make sure that all we do is done by us.
-    p.
-        but what if we do it?
-
-
-
-block more
-    h1 Add new user here!
-    div
-        form(method='post', action='/users', name='sign_in')
-            table(border='0')
-                tr
-                    td
-                        label(for='nom') nom:
-                    td
-                        input(type='text', id='nom', name='nom', size='30', maxlength='30')
-                tr
-                    td
-                        label(for='prenom') prenom:
-                    td
-                        input(type='text', id='prenom', name='prenom', size='30', maxlength='30')
-                tr
-                    td
-                        label(for='pays') pays:
-                    td
-                        input(type='text', id='pays', name='pays', size='30', maxlength='30')
-                tr
-                    td
-                        label(for='region') region:
-                    td
-                        input(type='text', id='region', name='region', size='30', maxlength='30')
-                tr
-                    td
-                        label(for='passion') passion:
-                    td
-                        input(type='text', id='passion', name='passion', size='30', maxlength='30')
-                tr
-                    br
-                    td(colspan='2')
-                        input(type='submit', value='Enregistrer', class='btn-large btn-success')
-
-
-
-
+            strong {{currentColor()}}
 
 

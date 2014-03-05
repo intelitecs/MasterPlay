@@ -7,7 +7,15 @@ Masterplay.controller('ApplicationController', function($scope){
 
 var UserController = Masterplay.controller('UserController',function($scope,$http){
     "use strict";
+    //$scope.grid = new Grid()
+    //$scope.grid.initialize();
     $scope.name = "Jarode Zago";
+    $scope.partie = "Titre de la partie"
+
+    $scope.currentColor = function(){
+        return "Black";
+    };
+
 
     var users = {};
 
