@@ -1,0 +1,181 @@
+
+div.container
+    div.jumbotron
+        div#selectedPlayer
+            img(class='currentImage', src='/images/Cavalier_blanc_transparent.png', alt='Current image', width='70px', height='80px')
+            strong.number
+
+        div#chessboard.chessboard
+            //include playboard
+            each row, rowindex in [1,2,3,4,5,6,7,8]
+                br
+                each col, colindex in [1,2,3,4,5,6,7,8]
+                   case row
+                       when 1
+                           case col
+                               when 1
+                                   button(class='symbol')
+                                     img(src='/images/Tour_blanche_transparente.png',alt='Tour Blanche', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 2
+                                   button(class='symbol')
+                                     img(src='/images/Cavalier_blanc_transparent.png',alt='Cavalier Blanc', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 3
+                                   button(class='symbol')
+                                     img(src='/images/Fou_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 4
+                                   button(class='symbol')
+                                     img(src='/images/Roi_blanc_transparent.png',alt='Roi Blanc',width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when  5
+                                   button(class='symbol')
+                                     img(src='/images/Reine_blanche_transparente.png',alt='Reine Blanche', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 6
+                                   button(class='symbol')
+                                     img(src='/images/Fou_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 7
+                                   button(class='symbol')
+                                     img(src='/images/Cavalier_blanc_transparent.png',alt='Cavalier Blanc', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               when 8
+                                   button(class='symbol')
+                                     img(src='/images/Tour_blanche_transparente.png',alt='Tour Blanche', width='40px', height='50px',class='player')
+                                     strong #{row*col}
+                               default
+                                   button(class='symbol')
+                                      strong #{row*col}
+
+                       when 2
+                            case col
+                                when 1
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 2
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 3
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 4
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when  5
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  6
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  7
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  8
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                default
+                                    button(class='symbol')
+                                        strong #{row*col}
+
+                       when 7
+                            case col
+                                when 1
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 2
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 3
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when 4
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+                                when  5
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  6
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  7
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc',width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                when  8
+                                    button(class='symbol')
+                                      img(src='/images/Pion_blanc_transparent.png',alt='Pion Blanc',width='40px', height='50px',class='player')
+                                      strong #{row*col}
+
+                                default
+                                    button(class='symbol')
+                                      strong #{row*col}
+
+                       when 8
+                            case col
+                                when 1
+                                    button(class='symbol')
+                                        img(src='/images/Tour_blanche_transparente.png',alt='Tour Blanche', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+                                when 2
+                                    button(class='symbol')
+                                        img(src='/images/Cavalier_blanc_transparent.png',alt='Cavalier Blanc', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+                                when 3
+                                    button(class='symbol')
+                                        img(src='/images/Fou_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+                                when 4
+                                    button(class='symbol')
+                                        img(src='/images/Roi_blanc_transparent.png',alt='Roi Blanc', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+                                when  5
+                                    button(class='symbol')
+                                        img(src='/images/Reine_blanche_transparente.png',alt='Reine Blanche', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+                                when 6
+                                    button(class='symbol')
+                                        img(src='/images/Fou_blanc_transparent.png',alt='Pion Blanc', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+
+                                when 7
+                                    button(class='symbol')
+                                        img(src='/images/Cavalier_blanc_transparent.png',alt='Cavalier Blanc', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+
+                                when 8
+                                    button(class='symbol')
+                                        img(src='/images/Tour_blanche_transparente.png',alt='Tour Blanche', width='40px', height='50px',class='player')
+                                        strong #{row*col}
+
+                                default
+                                    button(class='symbol')
+                                        strong #{row*col}
+
+                       default
+                           button(class='symbol')
+                               strong #{row * col}
+
+

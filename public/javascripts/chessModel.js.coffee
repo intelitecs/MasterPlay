@@ -1,3 +1,4 @@
+
 COLS   = 8
 ROWS   = 8
 TOP    = 1
@@ -270,3 +271,6 @@ class King extends Player
       result.push fn(@position) if (fn(@position) and (!fn(@position).getPlayer()? or fn(@position).getPlayer().getColor() != @color))
 
     return result
+
+
+

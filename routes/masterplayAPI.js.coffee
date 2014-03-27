@@ -1,6 +1,6 @@
 mongoose  = require('mongoose')
 mongo     = require('mongodb')
-fs     = require('fs')
+fs        = require('fs')
 
 mongoose.connect("mongodb://localhost:27017/masterplay")
 db = mongoose.connection;
@@ -23,6 +23,63 @@ userSchema = mongoose.Schema({
 #user model
 User = mongoose.model('User',userSchema);
 
+
+#productSchema
+productSchema = mongoose.Schema({
+    _id      : {type  : Number, default : '', trim: true},
+    quantity : {type  : Number, default : '', trim: true}
+})
+
+#billSchema
+billSchema = mongoose.Schema({
+  _id      : {type  : Number, default : '', trim: true},
+  user_id  : {type  : Number, default : '', trim: true},
+  products : [productSchema]
+})
+
+#bill model
+Bill    = mongoose.model('Bill',billSchema)
+#product model
+Product = mongoose.model('Product',productSchema)
+
+#create examples of product
+
+product1 = new Product({
+  _id      : 1,
+  quantity : 3
+})
+
+product2 = new Product({
+  _id      : 2,
+  quantity : 2
+})
+
+myProducts = [product1, product2]
+
+#create a new bill
+myBill = new Bill({
+  _id       : 1,
+  user_id   : 1,
+  products  : myProducts
+})
+###
+myBill.save (error, result) ->
+  if(error)
+    console.error(error)
+  else
+    console.log(result[0])
+
+
+
+###
+
+persons = {firstname: 'Jarode', lastname: 'Zago', age: 30 }
+person = Object.create(persons)
+person.firstname= 'Gbatey';
+person.lastname= 'Tayoro Lucien';
+person.age= 56;
+exports.person =  (request, response) ->
+  response.json(person);
 
 
 # do all requests with the User model
@@ -93,7 +150,7 @@ exports.updateUser = (request, response) ->
     if error
       console.error(error.message);
     else
-      userToUpdate = users[request.params.id]
+      userToUpdate         = users[request.params.id]
       userToUpdate.nom     = request.body.nom
       userToUpdate.prenom  = request.body.prenom
       userToUpdate.pays    = request.body.pays
@@ -125,6 +182,20 @@ exports.removeUser = (request, response) ->
 
   )
 
+
+
+exports.membersPage = (request, response) ->
+  response.render('members',{members: [{name: 'Jarode Zago', role:'Designer and Developer' },
+                                       {name: 'Alexandre LeFourn', role:'Senior Assistant'},
+                                       {name:  'Alaric Daré', role: 'Assistant'}]})
+
+
+exports.aboutPage = (request, response) ->
+  response.render('about',{members: {}})
+
+
+exports.rulesPage = (request, response) ->
+  response.render('rules',{members: {}})
 
 
 

@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    div.container
+        div.jumbotron
+           h1 Members
+           p The Project team is composed by:
+               each member in members
+                   h3 #{member.name}
+                   span #{member.role}
+
+
+
+
+    button.btn.btn-large.btn-info.back#back Back

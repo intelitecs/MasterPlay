@@ -14,7 +14,7 @@
 
  application = express();
 
- #all environments
+
  application.set('port', process.env.PORT || 3000);
  application.set('views', path.join(__dirname, 'views'));
  application.set('view engine', 'jade');
@@ -30,7 +30,7 @@
  application.use(supervisor)
 
 
- # development only
+
 
  if 'development' is application.get('env')
     application.use(express.errorHandler())
@@ -41,6 +41,14 @@
  application.post('/users',masterplayAPI.addUser)
  application.patch('/users/:id',masterplayAPI.updateUser)
  application.delete('/users/:id',masterplayAPI.removeUser)
+
+ application.get('/members',masterplayAPI.membersPage)
+ application.get('/about',masterplayAPI.aboutPage)
+ application.get('/rules',masterplayAPI.rulesPage)
+
+ application.get('/person',masterplayAPI.person);
+
+
 
  mainLoop = ->
     console.log("Starting application")
@@ -114,16 +122,4 @@
  )
 
 
-
-# net = require('net')
-# server = net.createServer( (connection) ->
-#  console.log('server connected')
-#  connection.on 'end', ->
-#    console.log('server disconnected')
-#  connection.write "Bonjour de la part de Jarode"
-#  connection.pipe(connection)
-# )
-# server.listen 8124, ->
-#   console.log "server bound"
-#
 

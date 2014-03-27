@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163b36a1-6403-4516-bc77-239271d13bf9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/about.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/configAngular/chessengine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/home.jade" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/configAngular/chessengine.js.coffee" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/configAngular/controllers.js" afterPath="$PROJECT_DIR$/public/javascripts/configAngular/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/HTML5API.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/chessboardjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/chessbord.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/inc/footer.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/inc/header.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/inc/navigation.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/playboard.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/rules.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/inc/scripts.jade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/home.jade" afterPath="$PROJECT_DIR$/views/members.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/about.jade" afterPath="$PROJECT_DIR$/views/about.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/chessModel.js.coffee" afterPath="$PROJECT_DIR$/public/javascripts/chessModel.js.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" afterPath="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js.coffee" afterPath="$PROJECT_DIR$/server.js.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MasterPlay.iws" />
@@ -33,46 +42,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <file leaf-file-name="chessboardjs.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/chessboardjs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="3375">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MasterPlay.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
+      <file leaf-file-name="server.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="343" max-vertical-offset="720">
+            <state line="16" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="1658" max-vertical-offset="1965">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="18" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="613" max-vertical-offset="975">
+            <state line="7" column="19" selection-start="149" selection-end="149" vertical-scroll-proportion="0.15194346" vertical-offset="62" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/inc/header.jade">
+      <file leaf-file-name="masterplayAPI.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/masterplayAPI.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="57" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+            <state line="142" column="0" selection-start="3265" selection-end="3265" vertical-scroll-proportion="0.0" vertical-offset="2318" max-vertical-offset="3120">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="chessModel.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/chessModel.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="2" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="876" max-vertical-offset="4230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/inc/scripts.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="40" selection-start="606" selection-end="606" vertical-scroll-proportion="0.4558011" vertical-offset="0" max-vertical-offset="362">
+            <state line="13" column="42" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="11" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -81,25 +108,25 @@
       <file leaf-file-name="footer.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/inc/footer.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="21" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+            <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/about.jade">
+      <file leaf-file-name="playboard.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/playboard.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+            <state line="4" column="38" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/home.jade">
+      <file leaf-file-name="header.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/inc/header.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="33" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -118,10 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/public/javascripts/MaterPlay.js" />
-        <option value="$PROJECT_DIR$/public/javascripts/jquery.js" />
-        <option value="$PROJECT_DIR$/config.js" />
         <option value="$PROJECT_DIR$/db/masterplaydb.js" />
         <option value="$PROJECT_DIR$/views/chat/index.js" />
         <option value="$PROJECT_DIR$/routes/chat.js" />
@@ -129,7 +152,6 @@
         <option value="$PROJECT_DIR$/public/javascripts/application.js" />
         <option value="$PROJECT_DIR$/views/users/show.jade" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/server.coffee" />
         <option value="$PROJECT_DIR$/routes/user.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -138,7 +160,6 @@
         <option value="$PROJECT_DIR$/public/javascripts/angular_controllers/userController.js" />
         <option value="$PROJECT_DIR$/public/javascripts/angular_controllers/userController.js.coffee" />
         <option value="$PROJECT_DIR$/public/javascripts/masterplay.js.coffee" />
-        <option value="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
         <option value="$PROJECT_DIR$/public/javascripts/masterplaycoffee.js.coffe.coffee" />
         <option value="$PROJECT_DIR$/public/javascripts/masterplayAngularconfig.js" />
         <option value="$PROJECT_DIR$/public/javascripts/masterplayAngular.js.coffee" />
@@ -146,29 +167,43 @@
         <option value="$PROJECT_DIR$/public/javascripts/configAngular/services.js" />
         <option value="$PROJECT_DIR$/views/users/index.jade" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" />
         <option value="$PROJECT_DIR$/controller/chessengine.js.coffee" />
         <option value="$PROJECT_DIR$/models/chessModel.js.coffee" />
         <option value="$PROJECT_DIR$/public/javascripts/configAngular/chessengine.js.coffee" />
         <option value="$PROJECT_DIR$/public/javascripts/masterplayAngular.js" />
         <option value="$PROJECT_DIR$/public/javascripts/configAngular/chessengine.js" />
         <option value="$PROJECT_DIR$/public/javascripts/configAngular/controllers.js" />
-        <option value="$PROJECT_DIR$/server.js.coffee" />
-        <option value="$PROJECT_DIR$/views/inc/header.jade" />
-        <option value="$PROJECT_DIR$/views/inc/scripts.jade" />
-        <option value="$PROJECT_DIR$/views/inc/footer.jade" />
-        <option value="$PROJECT_DIR$/views/about.jade" />
         <option value="$PROJECT_DIR$/views/home.jade" />
+        <option value="$PROJECT_DIR$/views/users/chessbord.txt" />
+        <option value="$PROJECT_DIR$/views/inc/footer.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/MasterPlay.js" />
+        <option value="$PROJECT_DIR$/views/rules.jade" />
+        <option value="$PROJECT_DIR$/views/about.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/HTML5API.js.coffee" />
+        <option value="$PROJECT_DIR$/views/members.jade" />
+        <option value="$PROJECT_DIR$/views/inc/header.jade" />
         <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/views/inc/navigation.jade" />
+        <option value="$PROJECT_DIR$/routes/masterplayAPI.js.coffee" />
         <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/chessModel.js.coffee" />
+        <option value="$PROJECT_DIR$/views/playboard.jade" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/views/chessbord.jade" />
+        <option value="$PROJECT_DIR$/views/inc/scripts.jade" />
+        <option value="$PROJECT_DIR$/public/javascripts/HTML5API.coffee" />
+        <option value="$PROJECT_DIR$/server.js.coffee" />
+        <option value="$PROJECT_DIR$/models/chess.js" />
+        <option value="$PROJECT_DIR$/models/chessModel.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/chessboardjs.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
+    <option name="x" value="100" />
     <option name="y" value="22" />
-    <option name="width" value="1329" />
-    <option name="height" value="774" />
+    <option name="width" value="1354" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -215,70 +250,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterPlay" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -313,14 +284,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.masterplay">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -331,15 +294,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -385,29 +356,33 @@
       <created>1393964105655</created>
       <updated>1393964105655</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bootstrap configured&#10;">
+      <created>1394055979050</created>
+      <updated>1394055979050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="22" width="1329" height="774" extended-state="0" />
+    <frame x="100" y="22" width="1354" height="738" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935917" sideWeight="0.49957374" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277439" sideWeight="0.85314685" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42443728" sideWeight="0.4839939" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17156473" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21678321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4054878" sideWeight="0.4832945" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276316" sideWeight="0.8537964" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4054878" sideWeight="0.5167055" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16654164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21265244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42443728" sideWeight="0.5160061" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -430,9 +405,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34036145" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25753012" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -450,7 +425,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="last commit on chessboard" />
     <MESSAGE value="chessModel and chessengine files added&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="chessModel and chessengine files added&#10;" />
+    <MESSAGE value="bootstrap configured&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap configured&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -468,59 +444,9 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="14" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="44" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="4200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="33" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="69" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="5" column="27" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
@@ -540,9 +466,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="40" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/jquery.js">
@@ -552,9 +476,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="5" column="27" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
@@ -569,9 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="44" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="5" column="44" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
@@ -581,9 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="3" column="11" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
@@ -626,19 +544,9 @@
         <state line="17" column="20" selection-start="523" selection-end="523" vertical-scroll-proportion="0.6929348" vertical-offset="0" max-vertical-offset="5295" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/underscore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-53.904892" vertical-offset="19837" max-vertical-offset="20205" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/users/show.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="22" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.18382353" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/configAngular/services.js">
@@ -651,24 +559,9 @@
         <state line="1" column="5" selection-start="18" selection-end="18" vertical-scroll-proportion="0.038961038" vertical-offset="0" max-vertical-offset="385" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="345" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="354" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/masterplayAPI.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="20" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/chessModel.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="7" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4155" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/users/index.jade">
@@ -676,95 +569,149 @@
         <state line="14" column="57" selection-start="234" selection-end="234" vertical-scroll-proportion="0.08839779" vertical-offset="178" max-vertical-offset="540" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/masterplayAngular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/configAngular/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="10" column="6" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/configAngular/chessengine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="30" selection-start="87" selection-end="142" vertical-scroll-proportion="0.046961326" vertical-offset="13" max-vertical-offset="375">
+        <state line="2" column="30" selection-start="87" selection-end="142" vertical-scroll-proportion="0.046961326" vertical-offset="13" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users/chessbord.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="469" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/rules.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="21" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/about.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="14" selection-start="111" selection-end="111" vertical-scroll-proportion="0.24725275" vertical-offset="0" max-vertical-offset="364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/members.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/navigation.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/underscore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1331" column="75" selection-start="44979" selection-end="44979" vertical-scroll-proportion="0.24340177" vertical-offset="19837" max-vertical-offset="20205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/masterplayAngular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.21994135" vertical-offset="0" max-vertical-offset="341" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="5" selection-start="640" selection-end="640" vertical-scroll-proportion="1.0302198" vertical-offset="0" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="11" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0" vertical-offset="956" max-vertical-offset="1320">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js.coffee">
+    <entry file="file://$PROJECT_DIR$/views/playboard.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.0" vertical-offset="688" max-vertical-offset="2025">
-          <folding>
-            <marker date="1394052709000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state line="4" column="38" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/inc/footer.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/about.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="33" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+        <state line="3" column="19" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="18" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/inc/header.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="57" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="18" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="636" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/MasterPlay.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="343" max-vertical-offset="720">
+        <state line="10" column="11" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="11" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/inc/scripts.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="606" selection-end="606" vertical-scroll-proportion="0.4558011" vertical-offset="0" max-vertical-offset="362">
+        <state line="13" column="42" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/HTML5API.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/chessbord.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="286" selection-end="286" vertical-scroll-proportion="0.41095892" vertical-offset="0" max-vertical-offset="2805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/inc/header.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/masterplayAPI.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="0" selection-start="3265" selection-end="3265" vertical-scroll-proportion="0.0" vertical-offset="1733" max-vertical-offset="3120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chessModel.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="2" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="876" max-vertical-offset="4230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/chessboardjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="19" selection-start="149" selection-end="149" vertical-scroll-proportion="0.15194346" vertical-offset="62" max-vertical-offset="345">
           <folding />
         </state>
       </provider>

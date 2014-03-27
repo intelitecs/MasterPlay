@@ -20,7 +20,7 @@ a {
 
 .chessboard{
     width: 600px;
-    height: 515px;
+    height: 555px;
     background: #dddddd;
     padding-left: 20px;
     margin-top: -90px;
@@ -49,12 +49,35 @@ a {
     padding: 0;
 }
 
+
+
 div#selectedPlayer{
     visibility: hidden;
+    margin-top: -10px;
+}
+.currentImage{
+    margin-top: -10px;
 }
 
 form[name='sign_in'] > input[type='text']{
     margin-left: 10px;
+}
+
+.jumbotron{
+    background: #000000;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.chessboard > .playboard{
+    color: darkgreen;
+    font-weight: bold;
+    background: #ffffff;
+    float: left;
+    width: 430px;
+    position: absolute;
+    top: 180px;
+    left: 170px;
 
 
 }
